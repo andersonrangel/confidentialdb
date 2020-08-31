@@ -170,6 +170,7 @@
   <ItemGroup>
     <None Include="Migrations\1.0.0-Baseline\001_20200831-1318_redgate.sql" />
     <None Include="Pre-Deployment\01_Create_Database.sql" />
+    <None Include="Programmable Objects\dbo\Stored Procedures\newproc.sql" />
     <None Include="Schema-Model\dbo\Tables\DMSSTAT_RSTATS.sql" />
     <None Include="Schema-Model\dbo\Tables\DMSSTAT_TSTATS.sql" />
     <None Include="Schema-Model\dbo\Tables\DMS_AUDITTAB.sql" />
